@@ -1,0 +1,4 @@
+week02
+-리눅스 ls, ls -al , pwd, cd, git. cd..
+- git commend : git init 
+git com
