@@ -5,4 +5,4 @@ git status
 git add week01.txt
  git config --global user.email "gusrms2142@naver.com"
 git checkout hashcode
-
+git olg
